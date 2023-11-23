@@ -10,6 +10,9 @@
 ## Questions and hypothesis 
 **Search term**: "Country" AND (Bioinformatics OR "Computational Genomics" OR "Computational Biology")
 
+"Country" AND ("Bioinformatics" OR "Computational Genomics" OR "Computational Biology" OR "Genomic Sequencing" OR "Proteomics" OR "Metagenomics" OR "Trascriptomics" OR "Phylogenetics" OR "Genetic Analysis" OR "Molecular Modeling")
+
+
 - Check the number of publications using bioinformatics tools in different African countries for scientific research
 - Are they primary or review papers 
 - Was the research conducted locally 
@@ -17,6 +20,9 @@
 - In the primary papers, is there local institutional collaboration?
 - What was done in the collaborating country
 - How many of these articles focus on bioinformatics?
+- How are data generated from bioinformatics research managed and shared?
+- Are there issues with internet connectivity or access to computational resources?
+- What disease or local problems was addressed ?.
 - What area of bioinformatics that is commonly used in addressing problems e.g. RNA-Seq, Chip-Seq, WGS, GWAS, scRNA-Seq etc
 - Countries that published in Africa according to region e.g. West, East, North and Southern Africa 
 - Institutions with the top bioinformatics publication 
@@ -38,6 +44,7 @@ PubMed was searched for articles pertaining to bioinformatics or computional bio
 #### Flow diagram
 
 ## Analysis  
+Bibliometrics or network analysis, to quantitatively analyze research patterns, collaborations, and impact.
 
 
 ## Discussion
@@ -47,6 +54,11 @@ Challenges for using bioinformatics in research in Africa
 - Collaboration
 - Funding
 - Future
+
+## Recommendation
+
+  - Policy interventions and 
+  - Resource allocation in the field of bioinformatics in Africa.
 
 
 ### Reference
