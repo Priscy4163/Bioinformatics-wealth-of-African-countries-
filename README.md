@@ -8,10 +8,7 @@
 - Bioinformatics in Africa and initiatives to promote it e..g H3BioNet, H3Africa, ASBCB, EANBiT, NBGN
 
 ## Questions and hypothesis 
-**Search term**: "Country" AND (Bioinformatics OR "Computational Genomics" OR "Computational Biology")
-
-"Country" AND ("Bioinformatics" OR "Computational Genomics" OR "Computational Biology" OR "Genomic Sequencing" OR "Proteomics" OR "Metagenomics" OR "Trascriptomics" OR "Phylogenetics" OR "Genetic Analysis" OR "Molecular Modeling")
-
+**Search term**: "Country" AND ("Country" AND ("Bioinformatics" OR "Computational Genomics" OR "Computational Biology" OR "Genomic Sequencing" OR "Proteomics" OR "Metagenomics" OR "Trascriptomics" OR "Phylogenetics" OR "Genetic Analysis" OR "Molecular Modeling")
 
 - Check the number of publications using bioinformatics tools in different African countries for scientific research
 - Are they primary or review papers 
