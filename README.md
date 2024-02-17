@@ -5,10 +5,10 @@
 - Bioinformatics tools used for research
 - Challenges of the different bioinformatics tools in Africa
 - Challenges of research in Africa e.g. funding, infrastructure, electricity and equipment
-- Bioinformatics in Africa and initiatives to promote it e..g H3BioNet, H3Africa, ASBCB, EANBiT, NBGN
+- Bioinformatics in Africa and initiatives to promote it e..g H3BioNet, Africa Biogenome Project, H3Africa, ASBCB, EANBiT, NBGN
 
 ## Questions and hypothesis 
-**Search term**: "Country" AND ("Country" AND ("Bioinformatics" OR "Computational Genomics" OR "Computational Biology" OR "Genomic Sequencing" OR "Proteomics" OR "Metagenomics" OR "Trascriptomics" OR "Phylogenetics" OR "Genetic Analysis" OR "Molecular Modeling")
+**Search term**: "(Country[Title/Abstract] OR Country[Affiliation]) AND (Bioinformatics[Title/Abstract] OR "Computational Biology"[Title/Abstract] OR "Genomic Data Analysis"[Title/Abstract] OR "Genomics"[Title/Abstract] OR "Proteomics"[Title/Abstract] OR "Metagenomics"[Title/Abstract] OR "Transcriptomics"[Title/Abstract] OR "Phylogenetics"[Title/Abstract] OR "Molecular Dynamics"[Title/Abstract] OR "Systems Biology"[Title/Abstract] OR "Bioinformatics Tools"[Title/Abstract] OR "Computational Genomics"[Title/Abstract])"
 
 - Check the number of publications using bioinformatics tools in different African countries for scientific research
 - Are they primary or review papers 
