@@ -20,7 +20,7 @@
 - How are data generated from bioinformatics research managed and shared?
 - Are there issues with internet connectivity or access to computational resources?
 - What disease or local problems was addressed ?.
-- What area of bioinformatics that is commonly used in addressing problems e.g. RNA-Seq, Chip-Seq, WGS, GWAS, scRNA-Seq etc
+- What area of bioinformatics is commonly used in addressing problems e.g. RNA-Seq, Chip-Seq, WGS, GWAS, scRNA-Seq etc
 - Countries that published in Africa according to region e.g. West, East, North and Southern Africa 
 - Institutions with the top bioinformatics publication 
 - Bioinformatics Labs and infrastructure across Africa
@@ -29,7 +29,7 @@
 
 ### Methods
 
-An excel workbooks containing all African countries were used for literature mining and carrying out the analysis. The workbook contains the following sheets:
+An excel workbook containing all African countries were used for literature mining and carrying out the analysis. The workbook contains the following sheets:
 1) Search strategy (where the search terms can be located, use it to mine literature and fill the spaces provided)
 2) Country_All (This should have the country name and all the articles downloaded from PubMed)
 3) Country_Analysed (This should have countries name and only the articles that passed the criteria and which was analysed) 
